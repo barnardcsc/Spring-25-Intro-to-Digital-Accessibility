@@ -11,4 +11,4 @@ Learn about the basics of digital accessibility and explore how to design access
 
 
 **For quick access to resources & links from this workshop, please see below:**
-  1. [Colab notebook](https://bit.ly/csc-search-wkshp-2025-03)
+  1. [TBD]()
