@@ -6,8 +6,9 @@ Learn about the basics of digital accessibility and explore how to design access
 
 
 **This repository contains the following materials:**
-  1. intro-to-digital-accessibility-slides.pdf: &ensp; Workshop slides
-  2. intro-to-digital-accessibility-template.pptx: &ensp; Workshop activity - make your own accessible slide
+  1. intro-to-digital-accessibility-slides.pdf: &ensp; Workshop slides in PDF format
+  2. intro-to-digital-accessibility-slides.pptx: &ensp; Workshop slides in PowerPoint format
+  3. intro-to-digital-accessibility-slides.pptx: &ensp; Workshop activity - make your own accessible slide
 
 
 **For quick access to resources & links from this workshop, please see below:**
