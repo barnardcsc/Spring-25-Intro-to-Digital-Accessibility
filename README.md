@@ -10,8 +10,3 @@ Learn about the basics of digital accessibility and explore how to design access
   2. intro-to-digital-accessibility-activity.pptx: &ensp; Workshop activity in PowerPoint format
   3. intro-to-digital-accessibility-slides.pdf: &ensp; Workshop slides in PDF format
   4. intro-to-digital-accessibility-slides.pptx: &ensp; Workshop slides in PowerPoint format
-
-
-
-**For quick access to resources & links from this workshop, please see below:**
-  1. [TBD]()
